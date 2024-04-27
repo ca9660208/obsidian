@@ -1,0 +1,90 @@
+#unfinished
+
+- 資料
+	- 變數
+	- 常值
+	- 資料型別
+		- 資料型別轉換
+	- 物件
+		- JavaScript內建標準物件
+			- 日期與時間物件 (Date)
+			- 字串物件
+			- 數值物件  
+		- Window 物件  
+		- Screen 物件  
+		- Navigator 物件  
+		- Location 物件  
+		- History 物件  
+		- Document 物件
+- 識別字與保留字
+- 類別 (Class)
+	- 物件導向
+	- 建構子
+	- this
+	- new
+- 運算
+	- 運算子與特殊符號
+	- 運算式
+		- 數值運算
+			- 數字（number／Number）
+			- bigint／BigInt
+			- 數學（Math）
+		- 文字處理
+			- 字串（string／String）
+			- RegExp / 規則運算式 / 正規表達式
+- 流程控制(控制結構) / 述句
+	- 選擇敘述(選擇結構)
+		- if
+		- switch
+	- 迴圈敘述(重複結構) loop
+		- for
+		- while
+	- break
+	- continue
+	- 錯誤與例外處理
+- 集合物件/資料結構
+	- 陣列(Array)
+		- 二維陣列
+	- Map 物件 & WeakMap
+	- Set 物件 & WeakSet
+- 函式（Function）
+	- 作用域
+- 高階函式
+- 原型鏈 (prototype chain) / 原型（Prototype）
+- 非同步 asynchronous
+	- Promise
+	- async 與 await
+- 事件循環 (Event loop)
+- 事件 (Event) 與事件處理程序 (Event handler)
+- Web Storage 儲存方案
+	- cookie
+	- local storage
+	- session storage
+	- indexDB
+- 模組（Module）
+- 迭代器Iterator
+- 產生器Generator
+- 物件特性設置與代理器
+- 提升 JavaScript 效能
+- DOM & virtual dom
+- 網路通訊方案
+	- ajax
+	- websocket
+- Metaprogramming
+- 其他
+	- 保留字
+	-  辨識符（symbol／Symbol）
+	- Proxy  
+	-  Reflect  
+	- Intl  
+	- WeakRef與FinalizationRegistry
+
+## TypeScript
+
+- 型別系統
+- 型別修飾符號
+- 泛型
+- 介面
+- 宣告檔案
+- 語法擴充
+- 型別操作

@@ -1,0 +1,182 @@
+#unfinished 
+- Java 的特點 : JVM
+- 開發環境
+- 變數
+	- 資料型別
+		- 基本型別 (Primitive Data Types)
+			- 整數型別 (額外：二進位、八進位和十六進位表示整數)
+				- 溢位
+			- 浮點數
+			- 字元
+			- 布林
+		- 參照型別 (Reference Data Types)
+	- String
+	- StringBuilder
+	- var宣告
+- 由鍵盤輸入資料 (input)
+- 保留字
+	- 關鍵字
+	- 識別字
+- 執行錯誤
+	- 語法錯誤
+	- 語意錯誤
+- 運算式(Expression)與運算子
+	- 運算式的運算順序
+	- 指定算符 (Assignment Operator)
+	- 布林運算 (Logical Operation)
+	- 位元運算 (Bitwise Operation)
+	- 算術運算子
+	- 設定運算子
+	- 遞增與遞減運算子
+	- 關係運算子
+	- 邏輯運算子
+	- 位元運算子
+- 運算子的優先順序
+- 資料型別轉換(Type Conversion)
+	- 自動型別轉換
+	- 強制型別轉換
+- 流程控制
+	- 選擇性敘述
+		- if
+		- if-else
+		- 條件運算子
+		- 巢狀 if
+		- switch
+	- 重複性敘述
+		- for
+		- while
+		- do-while
+		- 巢狀迴圈
+	- 迴圈的跳離
+		- break
+		- continue
+- 陣列
+	- 一維陣列的宣告與記憶體的配置
+	- 二維陣列
+	- 多維陣列 (Multi-Dimensional Array）
+- 函數 / 方法
+	- 引數
+	- 傳回值
+	- 多載
+- 類別 / 物件
+	- 函數成員
+	- 公有成員與私有成員
+	- 建構子
+	- 建構子的省略
+	- static 修飾子
+	- final 存取控制
+	- 保護成員
+	- 改寫
+	- 覆寫（Override）方法
+	- super 與 this
+	- is-a 與 has-a
+	- 多載
+	- 繼承（Inheritance）
+		- 多重繼承
+	- 多形 (Polymorphism)
+	- instanceof
+	- 靜態巢狀類別 (Static Nested Class)
+	- 封裝
+	- 列舉型別（enum）
+	- 巢狀類別
+	- abstract
+	- Functional Interface
+- 抽象類別 (Abstract Class)
+- 介面Interface 的使用
+- 多載
+- 內部類別 Inner Class
+- 匿名類別 (Anonymous Class)
+- Lambda 運算式
+- package
+	- public、 private 與 protected 修飾子的角色
+- 例外處理 Exception
+	- 拋出例外
+	- try/catch/finally 敘述
+	- throws
+- 多執行緒 Multithreading
+	- Thread 類別建立執行緒
+	- Runnable 介面來建立執行緒
+	- 生命週期
+	- 讓執行緒小睡片刻
+	- 等待執行緒
+	- 執行緒的優先順序
+	- 同步處理  Synchronization
+	- 臨界區(Critical Section)
+	- 多執行緒存取共用資源的問題
+	- 使用 synchronized 區塊
+	- isAlive( )、join( )
+	- suspend( )、resume( )
+	- setPriority( )、getPriority( )
+	- 執行緒群組(Thread Group)之應用
+- Java collection
+	- 泛型與 collection
+	- 集合
+		- Set
+			- HashSet
+			- TreeSet
+	- List
+		- LinkedList
+		- ArrayList
+	- Map
+		- HashMap
+		- TreeMap
+	- Iterator
+	- ListIterator
+- GUI
+- Swing
+- JFrame
+- JLabel
+- BorderLayout
+- FlowLayout
+- 委派事件
+
+- 反射與類別載入器
+- 標註
+- 映射
+
+- other
+	- 網路
+		- ServerSocket Class
+		- InetAddress Class
+		- Socket Class
+		- 指令參數與Server/Client連接
+		- 多次Server/Client連接記錄
+		- DataInputStream Class
+		- DataOutputStream Class
+		- 訊息串流傳遞(Message Stream Translation)
+		- FileInputStream Class
+		- FileOutputStream Class
+		- 檔案傳遞(File Translation)
+		- 檔案上傳(File Upload)
+		- 檔案下載(File Download)
+		- BufferedInputStream Class
+		- BufferedOutputStream Class
+		- 單點轉播(Single Forward Transition)
+		- 多點轉播(Multi Forward Transition)
+	- 檔案
+		- FileReader
+		- FileWriter
+		- BufferedReader
+		- BufferedWriter
+		- InputStream
+		- OutputStream
+		- DataInputStream
+		- DataOutputStream
+		- 檔案輸入輸出串流(File I/O Streams)架構
+	- 編譯
+		- 編譯檔案(Compile Files)
+		- 單一檔案包裹(Single File Package)
+		- 多檔案包裹(Multi Files Package)
+		- 包裹匯入(Import Package)
+		- 壓縮檔案(jar Files)
+		- jar檔與編譯檔(class)個別加入
+		- 使用jar檔  
+	- 例外類別
+		- java.lang之Error類別架構  
+		- java.lang之Exception類別架構  
+		- java.Util之Exception類別架構  
+		- java.io之Exception類別架構  
+		- java.awt之Exception類別架構  
+		- java.net之Exception類別架構
+
+- 命名的規則
